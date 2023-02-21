@@ -1,6 +1,0 @@
-# Web Developer Notes
-
-1. JAVASCRIPT
-2. TYPESCRIPT
-3. GIT
-4. REACT (FRONTEND)
